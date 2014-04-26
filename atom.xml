@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Blog]]></title>
+  <link href="http://gongluan.github.io/atom.xml" rel="self"/>
+  <link href="http://gongluan.github.io/"/>
+  <updated>2014-04-25T23:40:33-07:00</updated>
+  <id>http://gongluan.github.io/</id>
+  <author>
+    <name><![CDATA[LuAn Gong]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
