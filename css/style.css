@@ -1941,7 +1941,7 @@ footer {
   width: 6.875em;
   height: 6.875em;
   margin: 0 auto;
-  background: no-repeat url("../img/author.jpg") left top;
+  background: no-repeat url("../") left top;
   -webkit-background-size: 6.875em 6.875em;
   -moz-background-size: 6.875em 6.875em;
   background-size: 6.875em 6.875em;
@@ -2114,7 +2114,7 @@ footer {
   padding: 0.5em 2%;
   color: #4d4d4c;
   line-height: 1.5;
-  font-size: 0.8em;
+  font-size: 0.9rem;
   -webkit-border-radius: 0.35em;
   -webkit-border-radius: 0.35em;
   border-radius: 0.35em;
@@ -2124,7 +2124,7 @@ footer {
   .article-content pre,
   .article-content .highlight,
   .article-content .highlight pre {
-    font-size: 0.9em;
+    font-size: 0.9rem;
   }
 }
 .article-content .highlight .gutter pre,
@@ -2135,7 +2135,7 @@ footer {
 @media only screen and (min-width: 568px) {
   .article-content .highlight .gutter pre,
   .article-content .gist .gist-file .gist-data .line-numbers {
-    font-size: 0.9em;
+    font-size: 0.9rem;
     line-height: 1.5;
   }
 }
@@ -2148,7 +2148,7 @@ footer {
 }
 @media only screen and (min-width: 568px) {
   .article-content .highlight {
-    font-size: 0.9em;
+    font-size: 0.9rem;
   }
 }
 .article-content .highlight pre {
